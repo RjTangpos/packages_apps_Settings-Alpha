@@ -26,4 +26,7 @@
 
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play</string>
+
+    <!-- Skip biometric manual confirmation -->
+    <string name="skip_biometric_auth_confirmation_title">Skip manual confirmation</string>
 </resources>
