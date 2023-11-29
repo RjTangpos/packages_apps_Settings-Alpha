@@ -71,7 +71,7 @@ android_library {
         "res-export", // for external usage
         "res-product",
         "res-ui",
-        "AlphaSettings/res"
+        "AlphaSettings/res",
         "SettingsGoogle/res",
     ],
 
