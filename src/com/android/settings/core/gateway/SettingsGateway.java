@@ -381,7 +381,7 @@ public class SettingsGateway {
             LongBackgroundTasksDetails.class.getName(),
             RegionalPreferencesEntriesFragment.class.getName(),
             BatteryInfoFragment.class.getName(),
-            UserAspectRatioDetails.class.getName()
+            UserAspectRatioDetails.class.getName(),
             AlphaSettings.class.getName(),
             RunningServices.class.getName(),
             SmartPixels.class.getName(),
